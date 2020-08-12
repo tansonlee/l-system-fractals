@@ -1,0 +1,11 @@
+{
+	"axiom": "X",
+	"rules": [
+		{ "match": "F", "replace": "FF" },
+		{ "match": "X", "replace": "F[+X]F[-X]+X" }
+	],
+	"startX": 0.5,
+	"startY": 1,
+	"startAngle": 180,
+	"angle": 20
+}

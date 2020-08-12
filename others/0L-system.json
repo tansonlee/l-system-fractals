@@ -1,0 +1,8 @@
+{
+	"axiom": "F+F+F+F",
+	"rules": [{ "match": "F", "replace": "F+F-F-FF+F+F-F" }],
+	"startX": 0.25,
+	"startY": 0.75,
+	"startAngle": 270,
+	"angle": 90
+}

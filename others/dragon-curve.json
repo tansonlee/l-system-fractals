@@ -1,0 +1,11 @@
+{
+	"axiom": "FX",
+	"rules": [
+		{ "match": "X", "replace": "X+YF+" },
+		{ "match": "Y", "replace": "-FX-Y" }
+	],
+	"startX": 0.5,
+	"startY": 0.5,
+	"startAngle": 270,
+	"angle": 90
+}

@@ -1,0 +1,15 @@
+{
+	"axiom": "a",
+	"rules": [
+		{ "match": "F", "replace": ">F<" },
+		{ "match": "a", "replace": "F[+x]Fb" },
+		{ "match": "b", "replace": "F[-y]Fa" },
+		{ "match": "x", "replace": "a" },
+		{ "match": "y", "replace": "b" }
+	],
+	"startX": 0.5,
+	"startY": 1,
+	"startAngle": 180,
+	"angle": 45,
+	"lengthFactor": 1.36
+}

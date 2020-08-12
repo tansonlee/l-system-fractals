@@ -1,0 +1,33 @@
+{
+	"axiom": "aF",
+	"rules": [
+		{ "match": "a", "replace": "FFFFFy[++++n][----t]fb" },
+		{ "match": "b", "replace": "+FFFFFy[++++n][----t]fc" },
+		{ "match": "c", "replace": "FFFFFy[++++n][----t]fd" },
+		{ "match": "d", "replace": "-FFFFFy[++++n][----t]fe" },
+		{ "match": "e", "replace": "FFFFFy[++++n][----t]fg" },
+		{ "match": "g", "replace": "FFFFFy[+++fa]fh" },
+		{ "match": "h", "replace": "FFFFFy[++++n][----t]fi" },
+		{ "match": "i", "replace": "+FFFFFy[++++n][----t]fj" },
+		{ "match": "j", "replace": "FFFFFy[++++n][----t]fk" },
+		{ "match": "k", "replace": "-FFFFFy[++++n][----t]fl" },
+		{ "match": "l", "replace": "FFFFFy[++++n][----t]fm" },
+		{ "match": "m", "replace": "FFFFFy[---fa]fa" },
+		{ "match": "n", "replace": "ofFFF" },
+		{ "match": "o", "replace": "fFFFp" },
+		{ "match": "p", "replace": "fFFF[-s]q" },
+		{ "match": "q", "replace": "fFFF[-s]r" },
+		{ "match": "r", "replace": "fFFF[-s]" },
+		{ "match": "s", "replace": "fFfF" },
+		{ "match": "t", "replace": "ufFFF" },
+		{ "match": "u", "replace": "fFFFv" },
+		{ "match": "v", "replace": "fFFF[+s]w" },
+		{ "match": "w", "replace": "FFF[+s]x" },
+		{ "match": "x", "replace": "fFFF[+s]" },
+		{ "match": "y", "replace": "Fy" }
+	],
+	"startX": 0.5,
+	"startY": 1,
+	"startAngle": 180,
+	"angle": 12
+}

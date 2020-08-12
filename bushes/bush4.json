@@ -1,0 +1,14 @@
+{
+	"axiom": "VZFFF",
+	"rules": [
+		{ "match": "V", "replace": "[+++W][---W]YV" },
+		{ "match": "W", "replace": "+X[-W]Z" },
+		{ "match": "X", "replace": "-W[+X]Z" },
+		{ "match": "Y", "replace": "YZ" },
+		{ "match": "Z", "replace": "[-FFF][+FFF]F" }
+	],
+	"startX": 0.5,
+	"startY": 1,
+	"startAngle": 180,
+	"angle": 20
+}

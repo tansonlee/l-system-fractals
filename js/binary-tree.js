@@ -10,14 +10,14 @@ let configuration = axiom;
 const rules = [];
 // 1 --> 11
 rules[0] = {
-	match: "1",
-	replace: "11",
+	match: "f",
+	replace: "ff",
 };
 
 // 0 --> 1[0]0
 rules[1] = {
 	match: "0",
-	replace: "1[0]0",
+	replace: "f[0]0",
 };
 
 // 0: draw a line segment ending in a leaf
@@ -72,7 +72,7 @@ function draw() {
 				noStroke();
 				ellipse(0, 0, 50, 50);
 				break;
-			case "1":
+			case "f":
 				// 1: draw a line segment
 				line(0, 0, 0, len);
 				translate(0, len);

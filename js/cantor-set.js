@@ -1,19 +1,19 @@
 // can set width bigger but zoom out
 
-const axiom = "A";
+const axiom = "F";
 let configuration = axiom;
 
 const rules = [];
 // A --> ABA
 rules[0] = {
-	match: "A",
-	replace: "ABA",
+	match: "F",
+	replace: "FfF",
 };
 
 // B --> BBB
 rules[1] = {
-	match: "B",
-	replace: "BBB",
+	match: "f",
+	replace: "fff",
 };
 
 let iterations = 0;
@@ -54,12 +54,12 @@ function draw() {
 	fill(0);
 	for (let char of configuration) {
 		switch (char) {
-			case "A":
+			case "F":
 				// draw forward
 				rect(x, 0, w, height);
 				x += w;
 				break;
-			case "B":
+			case "f":
 				// move forward
 				x += w;
 				break;
