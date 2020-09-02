@@ -14,7 +14,7 @@ let btn;
 let zoomSlider;
 
 function preload() {
-	file = loadJSON("levy-curve.json");
+	file = loadJSON("fractals/square-sierpinski.json");
 }
 
 const iterate = () => {
