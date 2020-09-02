@@ -14,7 +14,7 @@ let btn;
 let zoomSlider;
 
 function preload() {
-	file = loadJSON("plants/weed.json");
+	file = loadJSON("levy-curve.json");
 }
 
 const iterate = () => {
@@ -100,6 +100,10 @@ function draw() {
 			case "<":
 				// divide line length by length factor
 				len /= lengthFactor;
+				break;
+			case "|":
+				// reverse direction (180 degrees turn)
+				rotate(radians(180));
 				break;
 		}
 	}

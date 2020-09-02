@@ -1,0 +1,17 @@
+{
+	"axiom": "-YF",
+	"rules": [
+		{
+			"match": "X",
+			"replace": "XFX-YF-YF+FX+FX-YF-YFFX+YF+FXFXYF-FX+YF+FXFX+YF-FXYF-YF-FX+FX+YFYF-"
+		},
+		{
+			"match": "Y",
+			"replace": "+FXFX-YF-YF+FX+FXYF+FX-YFYF-FX-YF+FXYFYF-FX-YFFX+FX+YF-YF-FX+FX+YFY"
+		}
+	],
+	"startX": 0,
+	"startY": 0,
+	"startAngle": 270,
+	"angle": 90
+}

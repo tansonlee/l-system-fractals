@@ -1,0 +1,13 @@
+{
+	"axiom": "F",
+	"rules": [
+		{
+			"match": "F",
+			"replace": "-F++F-"
+		}
+	],
+	"startX": 0.3,
+	"startY": 0.5,
+	"startAngle": 270,
+	"angle": 45
+}
