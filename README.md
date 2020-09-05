@@ -1,4 +1,4 @@
-# L System Fractals
+# L Systems
 
 ### Lindenmayer Systems visualization
 
