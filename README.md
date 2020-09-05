@@ -3,7 +3,7 @@
 ### Lindenmayer Systems visualization
 
 ### Table of Contents
-- [Introduction]()
+- [Introduction](#introduction)
 - [Plant-like Systems](#plant-like-systems)
 - [Fractals](#fractals)
 - [Space Fillers](#space-fillers)
@@ -116,6 +116,18 @@ This becomes interesting when each character in the string represents an instruc
 ---
 
 ### How to use
+
+A JSON file exists for each L-system which defines its axiom, all its rules, etc. A sample JSON file is below:
+
+<img src="assets/JSON-file.png" width="400px">
+
+**Mandatory**
+startX and startY are numbers from 0 to 1 which refer to the starting location of the system.
+startAngle refers to which direction the curve starts at.
+Angle refers to how much rotation is applied for a **+** or **-** symbol.
+
+**Optional**
+lengthFactor is the factor to multiply or divide the length for a **<** or **>** symbol.
 
 
 
