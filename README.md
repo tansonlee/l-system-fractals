@@ -117,7 +117,7 @@ This becomes interesting when each character in the string represents an instruc
 
 ### How to use
 
-A JSON file exists for each L-system which defines its axiom, all its rules, etc. A sample JSON file is below:
+A JSON file exists for each L-system which defines its axiom, all its rules, etc. A JSON file can be created for any L-system and be visualized with this project. A sample JSON file is below:
 
 <img src="assets/JSON-file.png" width="400px">
 
