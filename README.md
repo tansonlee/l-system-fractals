@@ -34,7 +34,7 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Trees
 
-<img src="assets/plants/leaf.png" width="200px"><img src="assets/plants/leaf-table.png" width="400px">
+<img src="assets/plants/leaf.png" width="200px"><img src="assets/plants/leaf-table.png" width="300px">
 
 <img src="assets/plants/stick.png" width="200px"><img src="assets/plants/stick-table.png" width="400px">
 
@@ -48,11 +48,11 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Algae
 
-<img src="assets/plants/algae.png" width="200px"><img src="assets/plants/algae-table.png" width="400px">
+<img src="assets/plants/algae.png" width="200px"><img src="assets/plants/algae-table.png" width="600px">
 
-<img src="assets/plants/algae2.png" width="200px"><img src="assets/plants/algae2-table.png" width="400px">
+<img src="assets/plants/algae2.png" width="200px"><img src="assets/plants/algae2-table.png" width="600px">
 
-<img src="assets/plants/weed.png" width="200px"><img src="assets/plants/weed-table.png" width="400px">
+<img src="assets/plants/weed.png" width="100px"><img src="assets/plants/weed-table.png" width="400px">
 
 ---
 
