@@ -30,11 +30,11 @@ This becomes interesting when each character in the string represents an instruc
 
 <img src="assets/plants/bush3.png" width="200px"><img src="assets/plants/bush3-table.png" width="400px">
 
-<img src="assets/plants/bush4.png" width="200px"><img src="assets/plants/bush4-table.png" width="400px">
+<img src="assets/plants/bush4.png" width="300px"><img src="assets/plants/bush4-table.png" width="400px">
 
 #### Trees
 
-<img src="assets/plants/leaf.png" width="200px"><img src="assets/plants/leaf-table.png" width="300px">
+<img src="assets/plants/leaf.png" width="200px"><img src="assets/plants/leaf-table.png" width="330px">
 
 <img src="assets/plants/stick.png" width="200px"><img src="assets/plants/stick-table.png" width="400px">
 
@@ -42,7 +42,7 @@ This becomes interesting when each character in the string represents an instruc
 
 <img src="assets/plants/fractal-plant2.png" width="200px"><img src="assets/plants/fractal-plant2-table.png" width="400px">
 
-<img src="assets/js/binary-tree.png" width="200px"><img src="assets/js/binary-tree-table.png" width="400px">
+<img src="assets/js/binary-tree.png" width="200px">*<img src="assets/js/binary-tree-table.png" width="400px">
 
 <img src="assets/plants/bush.png" width="200px"><img src="assets/plants/bush-table.png" width="400px">
 
@@ -68,11 +68,11 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Sierpinski Triangle
 
-<img src="assets/js/sierpinski-triangle.png" width="200px"><img src="assets/js/sierpinski-triangle-table.png" width="400px">
+<img src="assets/js/sierpinski-triangle.png" width="200px">*<img src="assets/js/sierpinski-triangle-table.png" width="400px">
 
 #### Sierpinski Arrowhead
 
-<img src="assets/js/sierpinski-arrowhead.png" width="200px"><img src="assets/js/sierpinski-arrowhead-table.png" width="400px">
+<img src="assets/js/sierpinski-arrowhead.png" width="200px">*<img src="assets/js/sierpinski-arrowhead-table.png" width="400px">
 
 #### Pentaplexity
 
@@ -84,7 +84,7 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Cantor Set
 
-<img src="assets/js/cantor-set.png" width="200px" height="100px"><img src="assets/js/cantor-set-table.png" width="400px" height="100px">
+<img src="assets/js/cantor-set.png" width="200px" height="100px">*<img src="assets/js/cantor-set-table.png" width="400px" height="100px">
 
 ---
 
@@ -96,7 +96,7 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Quadratic Gosper
 
-<img src="assets/space-fillers/quadratic-gosper.png" width="200px"><img src="assets/space-fillers/quadratic-gosper-table.png" width="400px">
+<img src="assets/space-fillers/quadratic-gosper.png" width="200px"><img src="assets/space-fillers/quadratic-gosper-table.png" width="500px">
 
 #### Square Sierpinski
 
@@ -140,7 +140,9 @@ Angle refers to how much rotation is applied for a **+** or **-** symbol.<br>
 **Optional**<br>
 lengthFactor is the factor to multiply or divide the length for a **<** or **>** symbol.
 
+---
 
+*These systems don't follow the definition of symbols in the table in the introduction but rather follow their own which can be found at https://en.wikipedia.org/wiki/L-system. 
 
 Sources:<br>
 https://en.wikipedia.org/wiki/L-system<br>
