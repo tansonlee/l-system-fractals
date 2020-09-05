@@ -27,7 +27,9 @@ This becomes interesting when each character in the string represents an instruc
 #### Bushes
 
 <img src="assets/plants/bush2.png" width="200px"><img src="assets/plants/bush2-table.png" width="200px">
+
 <img src="assets/plants/bush3.png" width="200px"><img src="assets/plants/bush3-table.png" width="200px">
+
 <img src="assets/plants/bush4.png" width="200px"><img src="assets/plants/bush4-table.png" width="200px">
 
 #### Trees
