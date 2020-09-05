@@ -16,24 +16,24 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Bushes
 
-<img src="assets/plants/bush2.png" width="400px">
-<img src="assets/plants/bush3.png" width="400px">
-<img src="assets/plants/bush4.png" width="400px">
+<img src="assets/plants/bush2.png" width="300px">
+<img src="assets/plants/bush3.png" width="300px">
+<img src="assets/plants/bush4.png" width="300px">
 
 #### Trees
 
-<img src="assets/plants/leaf.png" width="400px">
-<img src="assets/plants/stick.png" width="400px">
-<img src="assets/plants/fractal-plant.png" width="400px">
-<img src="assets/plants/fractal-plant2.png" width="400px">
-<img src="assets/js/binary-tree.png" width="400px">
-<img src="assets/plants/bush.png" width="400px">
+<img src="assets/plants/leaf.png" width="300px">
+<img src="assets/plants/stick.png" width="300px">
+<img src="assets/plants/fractal-plant.png" width="300px">
+<img src="assets/plants/fractal-plant2.png" width="300px">
+<img src="assets/js/binary-tree.png" width="300px">
+<img src="assets/plants/bush.png" width="300px">
 
 #### Algae
 
-<img src="assets/plants/algae.png" width="400px">
-<img src="assets/plants/algae2.png" width="400px">
-<img src="assets/plants/weed.png" width="400px">
+<img src="assets/plants/algae.png" width="300px">
+<img src="assets/plants/algae2.png" width="300px">
+<img src="assets/plants/weed.png" width="300px">
 
 ---
 
@@ -41,30 +41,30 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Rings
 
-<img src="assets/fractals/rings.png" width="400px">
+<img src="assets/fractals/rings.png" width="300px">
 
 #### Dragon Curve
 
-<img src="assets/fractals/dragon-curve.png" width="400px">
+<img src="assets/fractals/dragon-curve.png" width="300px">
 
 #### Sierpinski Triangle
 
-<img src="assets/js/sierpinski-triangle.png" width="400px">
+<img src="assets/js/sierpinski-triangle.png" width="300px">
 
 #### Sierpinski Arrowhead
-<img src="assets/js/sierpinski-arrowhead.png" width="400px">
+<img src="assets/js/sierpinski-arrowhead.png" width="300px">
 
 #### Pentaplexity
 
-<img src="assets/fractals/pentaplexity.png" width="400px">
+<img src="assets/fractals/pentaplexity.png" width="300px">
 
 #### Board
 
-<img src="assets/fractals/board.png" width="400px">
+<img src="assets/fractals/board.png" width="300px">
 
 #### Cantor Set
 
-<img src="assets/js/cantor-set.png" width="400px">
+<img src="assets/js/cantor-set.png" width="300px">
 
 ---
 
@@ -72,15 +72,15 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Peano Curve
 
-<img src="assets/space-fillers/peano-curve.png" width="400px">
+<img src="assets/space-fillers/peano-curve.png" width="300px">
 
 #### Quadratic Gosper
 
-<img src="assets/space-fillers/quadratic-gosper.png" width="400px">
+<img src="assets/space-fillers/quadratic-gosper.png" width="300px">
 
 #### Square Sierpinski
 
-<img src="assets/space-fillers/square-sierpinski.png" width="400px">
+<img src="assets/space-fillers/square-sierpinski.png" width="300px">
 
 ---
 
@@ -88,20 +88,20 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Crystal
 
-<img src="assets/other/crystal.png" width="400px">
+<img src="assets/other/crystal.png" width="300px">
 
 #### Levy Curve
 
-<img src="assets/other/levy-curve.png" width="400px">
+<img src="assets/other/levy-curve.png" width="300px">
 
 #### Koch Curve
 
-<img src="assets/other/koch-curve.png" width="400px">
+<img src="assets/other/koch-curve.png" width="300px">
 
 #### 0L-systems
 
-<img src="assets/other/0L-system.png" width="400px">
-<img src="assets/other/0L-system2.png" width="400px">
+<img src="assets/other/0L-system.png" width="300px">
+<img src="assets/other/0L-system2.png" width="300px">
 
 Sources:<br>
 https://en.wikipedia.org/wiki/L-system<br>
