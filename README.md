@@ -35,16 +35,23 @@ This becomes interesting when each character in the string represents an instruc
 #### Trees
 
 <img src="assets/plants/leaf.png" width="200px"><img src="assets/plants/leaf-table.png" width="200px">
+
 <img src="assets/plants/stick.png" width="200px"><img src="assets/plants/stick-table.png" width="200px">
+
 <img src="assets/plants/fractal-plant.png" width="200px"><img src="assets/plants/fractal-plant-table.png" width="200px">
+
 <img src="assets/plants/fractal-plant2.png" width="200px"><img src="assets/plants/fractal-plant2-table.png" width="200px">
+
 <img src="assets/js/binary-tree.png" width="200px"><img src="assets/js/binary-tree-table.png" width="200px">
+
 <img src="assets/plants/bush.png" width="200px"><img src="assets/plants/bush-table.png" width="200px">
 
 #### Algae
 
 <img src="assets/plants/algae.png" width="200px"><img src="assets/plants/algae-table.png" width="200px">
+
 <img src="assets/plants/algae2.png" width="200px"><img src="assets/plants/algae2-table.png" width="200px">
+
 <img src="assets/plants/weed.png" width="200px"><img src="assets/plants/weed-table.png" width="200px">
 
 ---
@@ -113,6 +120,7 @@ This becomes interesting when each character in the string represents an instruc
 #### 0L-systems
 
 <img src="assets/other/0L-system.png" width="200px"><img src="assets/other/0L-system-table.png" width="200px">
+
 <img src="assets/other/0L-system2.png" width="200px"><img src="assets/other/0L-system2-table.png" width="200px">
 
 ---
