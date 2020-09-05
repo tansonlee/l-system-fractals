@@ -64,7 +64,7 @@ This becomes interesting when each character in the string represents an instruc
 
 #### Cantor Set
 
-<img src="assets/js/cantor-set.png" width="200px">
+<img src="assets/js/cantor-set.png" width="200px" height="100px">
 
 ---
 
