@@ -121,12 +121,12 @@ A JSON file exists for each L-system which defines its axiom, all its rules, etc
 
 <img src="assets/JSON-file.png" width="400px">
 
-**Mandatory**
-startX and startY are numbers from 0 to 1 which refer to the starting location of the system.
-startAngle refers to which direction the curve starts at.
-Angle refers to how much rotation is applied for a **+** or **-** symbol.
+**Mandatory**<br>
+startX and startY are numbers from 0 to 1 which refer to the starting location of the system.<br>
+startAngle refers to which direction the curve starts at.<br>
+Angle refers to how much rotation is applied for a **+** or **-** symbol.<br>
 
-**Optional**
+**Optional**<br>
 lengthFactor is the factor to multiply or divide the length for a **<** or **>** symbol.
 
 
