@@ -49,7 +49,7 @@ function setup() {
 }
 
 function draw() {
-	background(200);
+	background(255);
 	translate(20, height - 20);
 	rotate(PI);
 

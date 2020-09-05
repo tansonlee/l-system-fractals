@@ -55,8 +55,8 @@ function setup() {
 }
 
 function draw() {
-	background(0);
-	stroke(255);
+	background(255);
+	stroke(0);
 	strokeWeight(sw.value());
 	translate(width / 2, height);
 	rotate(PI);

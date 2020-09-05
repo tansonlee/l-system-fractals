@@ -6,8 +6,8 @@
 			"replace": "XF-F+F-XF+F+XF-F+F-X"
 		}
 	],
-	"startX": 0.5,
-	"startY": 1,
-	"startAngle": 270,
+	"startX": 0.1,
+	"startY": 0,
+	"startAngle": 45,
 	"angle": 90
 }

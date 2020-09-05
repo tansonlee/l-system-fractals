@@ -14,7 +14,7 @@ let btn;
 let zoomSlider;
 
 function preload() {
-	file = loadJSON("fractals/square-sierpinski.json");
+	file = loadJSON("space-fillers/square-sierpinski.json");
 }
 
 const iterate = () => {
@@ -59,7 +59,7 @@ function setup() {
 }
 
 function draw() {
-	background(250);
+	background(255);
 	translate(width * startX, height * startY);
 	rotate(radians(startAngle));
 
